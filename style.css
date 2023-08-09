@@ -2,3 +2,26 @@ body{
     background-color: aquamarine;
 }
 
+img {
+    width: 200px;
+}
+
+    /* nav{ 
+        margin-left: 200px;
+    } */
+
+    .batas {
+        margin-left: 200px;
+    }
+
+    .warna {
+        background-color: yellow;
+    }
+
+    #bekground {
+        background-color: gray;
+    }
+
+    #kiri {
+        margin-left: 200px;
+    }
