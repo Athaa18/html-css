@@ -6,6 +6,10 @@
     width: 700px;
     margin: auto;
 }
+.display{
+    display: inline-block;
+    padding: 1%;
+}
 .warna{
     background-image:linear-gradient(to right, black, blue);
     color: white;
