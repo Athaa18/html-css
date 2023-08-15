@@ -6,6 +6,13 @@
     width: 700px;
     margin: auto;
 }
+h2:hover{
+    background-color: orangered;
+}
+p::first-letter{
+    color: #ff0000;
+    font-size: xx-large;
+}
 .display{
     display: inline-block;
     padding: 1%;
