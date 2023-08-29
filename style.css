@@ -9,6 +9,9 @@
 h2:hover{
     background-color: orangered;
 }
+.card:target{
+    background-color: green;
+}
 p::first-letter{
     color: #ff0000;
     font-size: xx-large;
